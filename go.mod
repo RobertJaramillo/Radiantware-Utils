@@ -1,3 +1,3 @@
-module github.com/RobertJaramillo/Radiantware-Utils
+module github.com/RobertJaramillo/radiantware-utils
 
 go 1.21.3
